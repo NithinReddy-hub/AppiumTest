@@ -1,0 +1,709 @@
+2020-01-10 17:12:39 INFO  PublicLibrary:16 - Started Application
+2020-01-10 17:13:57 INFO  PublicLibrary:16 - Started Application
+2020-01-10 17:18:16 INFO  PublicLibrary:16 - Started Application
+2020-01-10 17:19:57 INFO  PublicLibrary:16 - Started Application
+2020-01-10 17:37:34 INFO  PublicLibrary:16 - Started Application
+2020-01-10 17:40:01 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:06:40 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:08:28 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:19:34 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:23:03 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:24:40 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:28:18 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:30:27 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:41:05 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:58:42 INFO  PublicLibrary:16 - Started Application
+2020-01-10 18:59:49 INFO  PublicLibrary:16 - Started Application
+2020-01-10 19:08:59 INFO  PublicLibrary:16 - Started Application
+2020-01-10 19:25:58 INFO  PublicLibrary:16 - Started Application
+2020-01-10 19:32:03 INFO  PublicLibrary:16 - Started Application
+2020-01-10 19:35:43 INFO  PublicLibrary:16 - Started Application
+2020-01-10 19:41:00 INFO  PublicLibrary:18 - Started Application
+2020-01-10 19:47:46 INFO  PublicLibrary:18 - Started Application
+2020-01-16 12:20:28 INFO  PublicLibrary:18 - Started Application
+2020-01-16 12:27:10 INFO  PublicLibrary:18 - Started Application
+2020-01-16 12:57:14 INFO  PublicLibrary:18 - Started Application
+2020-01-16 13:04:18 INFO  PublicLibrary:18 - Started Application
+2020-01-16 13:09:08 INFO  PublicLibrary:18 - Started Application
+2020-01-16 13:11:10 INFO  PublicLibrary:18 - Started Application
+2020-01-16 13:16:51 INFO  PublicLibrary:18 - Started Application
+2020-01-16 13:19:33 INFO  PublicLibrary:18 - Started Application
+2020-01-16 13:21:34 INFO  PublicLibrary:18 - Started Application
+2020-01-16 13:37:45 INFO  PublicLibrary:18 - Started Application
+2020-01-16 13:50:05 INFO  PublicLibrary:18 - Started Application
+2020-01-16 13:53:36 INFO  PublicLibrary:18 - Started Application
+2020-01-16 14:39:39 INFO  PublicLibrary:18 - Started Application
+2020-01-16 15:05:49 INFO  PublicLibrary:18 - Started Application
+2020-01-16 15:31:18 INFO  PublicLibrary:18 - Started Application
+2020-01-16 15:31:22 ERROR PublicLibrary:142 - Exception in clickElement()java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to org.openqa.selenium.interactions.HasTouchScreen
+2020-01-16 15:31:32 ERROR PublicLibrary:212 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@57576994 (tried for 10 second(s) with 100 milliseconds interval)
+2020-01-16 15:31:32 ERROR PublicLibrary:186 - is not exist
+2020-01-16 15:31:32 ERROR PublicLibrary:162 -  is not exist
+2020-01-16 15:31:33 ERROR PublicLibrary:142 - Exception in clickElement()org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 8.0.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: 0374f435-1efa-4829-a391-7f96c5e0ed73
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Books']}
+2020-01-16 15:31:45 ERROR PublicLibrary:212 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@7b205dbd (tried for 10 second(s) with 100 milliseconds interval)
+2020-01-16 15:31:46 ERROR PublicLibrary:186 - is not exist
+2020-01-16 15:31:46 ERROR PublicLibrary:162 -  is not exist
+2020-01-16 15:31:47 ERROR PublicLibrary:142 - Exception in clickElement()org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 8.0.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: 0374f435-1efa-4829-a391-7f96c5e0ed73
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Audiobooks']}
+2020-01-16 15:31:50 ERROR PublicLibrary:142 - Exception in clickElement()java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to org.openqa.selenium.interactions.HasTouchScreen
+2020-01-16 15:38:32 INFO  PublicLibrary:18 - Started Application
+2020-01-16 15:38:34 ERROR PublicLibrary:142 - Exception in clickElement()java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to org.openqa.selenium.interactions.HasTouchScreen
+2020-01-16 15:38:44 ERROR PublicLibrary:212 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@19e7a160 (tried for 10 second(s) with 100 milliseconds interval)
+2020-01-16 15:38:45 ERROR PublicLibrary:186 - is not exist
+2020-01-16 15:38:45 ERROR PublicLibrary:162 -  is not exist
+2020-01-16 15:38:45 ERROR PublicLibrary:142 - Exception in clickElement()org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 8.0.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: 084e323f-4a82-4548-955c-c31f635130b9
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Books']}
+2020-01-16 15:41:59 INFO  PublicLibrary:18 - Started Application
+2020-01-16 15:42:03 ERROR PublicLibrary:142 - Exception in clickElement()java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to org.openqa.selenium.interactions.HasTouchScreen
+2020-01-16 15:42:23 ERROR PublicLibrary:212 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@36cda2c2 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-16 15:42:24 ERROR PublicLibrary:186 - is not exist
+2020-01-16 15:42:24 ERROR PublicLibrary:162 -  is not exist
+2020-01-16 15:42:24 ERROR PublicLibrary:142 - Exception in clickElement()org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 8.0.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: eda95988-57e6-41bf-9414-1ffca336c3c4
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Books']}
+2020-01-16 15:42:44 ERROR PublicLibrary:212 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@302a07d (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-16 15:42:45 ERROR PublicLibrary:186 - is not exist
+2020-01-16 15:42:45 ERROR PublicLibrary:162 -  is not exist
+2020-01-16 15:42:45 ERROR PublicLibrary:142 - Exception in clickElement()org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: Android, platformVersion: 8.0.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: eda95988-57e6-41bf-9414-1ffca336c3c4
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Audiobooks']}
+2020-01-16 15:42:46 ERROR PublicLibrary:142 - Exception in clickElement()java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to org.openqa.selenium.interactions.HasTouchScreen
+2020-01-16 15:46:06 INFO  PublicLibrary:18 - Started Application
+2020-01-16 15:47:52 ERROR PublicLibrary:144 - Exception in clickElement()java.lang.ClassCastException: io.appium.java_client.android.AndroidDriver cannot be cast to org.openqa.selenium.interactions.HasTouchScreen
+2020-01-16 15:49:03 INFO  PublicLibrary:18 - Started Application
+2020-01-16 16:36:21 INFO  PublicLibrary:18 - Started Application
+2020-01-16 16:39:28 INFO  PublicLibrary:18 - Started Application
+2020-01-16 16:57:11 INFO  PublicLibrary:18 - Started Application
+2020-01-16 17:44:31 INFO  PublicLibrary:18 - Started Application
+2020-01-16 17:52:17 INFO  PublicLibrary:18 - Started Application
+2020-01-16 17:54:29 INFO  PublicLibrary:18 - Started Application
+2020-01-16 17:57:36 INFO  PublicLibrary:18 - Started Application
+2020-01-16 17:58:11 ERROR PublicLibrary:196 - Found duplicate elements
+2020-01-16 17:58:11 ERROR PublicLibrary:177 -  is not exist
+2020-01-16 17:58:11 ERROR PublicLibrary:157 - Exception in clickElement()java.lang.NullPointerException
+2020-01-16 18:11:38 INFO  PublicLibrary:18 - Started Application
+2020-01-16 18:22:23 INFO  PublicLibrary:18 - Started Application
+2020-01-16 18:23:01 ERROR PublicLibrary:217 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@13e3c1c7 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-16 18:26:19 INFO  PublicLibrary:18 - Started Application
+2020-01-16 18:26:57 ERROR PublicLibrary:217 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@4bef0fe3 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-16 18:35:00 INFO  PublicLibrary:18 - Started Application
+2020-01-16 18:42:25 INFO  PublicLibrary:18 - Started Application
+2020-01-16 18:49:10 INFO  PublicLibrary:18 - Started Application
+2020-01-16 18:55:21 INFO  PublicLibrary:18 - Started Application
+2020-01-16 18:57:40 INFO  PublicLibrary:18 - Started Application
+2020-01-16 19:08:54 INFO  PublicLibrary:18 - Started Application
+2020-01-16 19:11:37 INFO  PublicLibrary:18 - Started Application
+2020-01-16 19:14:12 INFO  PublicLibrary:18 - Started Application
+2020-01-16 19:14:45 ERROR PublicLibrary:218 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@54e22bdd (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-16 19:16:01 INFO  PublicLibrary:18 - Started Application
+2020-01-16 19:35:19 INFO  PublicLibrary:18 - Started Application
+2020-01-16 19:39:34 INFO  PublicLibrary:18 - Started Application
+2020-01-16 20:00:18 INFO  PublicLibrary:18 - Started Application
+2020-01-16 20:00:53 ERROR PublicLibrary:218 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@339bf286 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-17 11:59:05 INFO  PublicLibrary:18 - Started Application
+2020-01-17 11:59:41 ERROR PublicLibrary:218 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@235f4c10 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-17 12:15:11 INFO  PublicLibrary:18 - Started Application
+2020-01-17 12:22:12 INFO  PublicLibrary:18 - Started Application
+2020-01-17 19:31:20 INFO  PublicLibrary:18 - Started Application
+2020-01-20 11:21:36 INFO  PublicLibrary:18 - Started Application
+2020-01-20 12:13:37 INFO  PublicLibrary:18 - Started Application
+2020-01-20 12:14:12 ERROR PublicLibrary:225 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@101639ae (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-20 12:14:12 ERROR PublicLibrary:199 - is not exist
+2020-01-20 12:14:12 ERROR PublicLibrary:174 -  is not exist
+2020-01-20 12:14:12 ERROR PublicLibrary:154 - Exception in clickElement()java.lang.NullPointerException
+2020-01-20 12:14:32 ERROR PublicLibrary:225 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@459f7aa3 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-20 12:14:32 ERROR PublicLibrary:199 - is not exist
+2020-01-20 12:14:32 ERROR PublicLibrary:174 -  is not exist
+2020-01-20 12:14:32 ERROR PublicLibrary:154 - Exception in clickElement()java.lang.NullPointerException
+2020-01-20 12:16:47 INFO  PublicLibrary:18 - Started Application
+2020-01-20 12:17:15 ERROR PublicLibrary:225 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@3174cb09 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-20 12:17:41 ERROR PublicLibrary:225 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@646811d6 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-20 12:17:41 ERROR PublicLibrary:199 - is not exist
+2020-01-20 12:17:41 ERROR PublicLibrary:174 -  is not exist
+2020-01-20 12:17:41 ERROR PublicLibrary:154 - Exception in clickElement()java.lang.NullPointerException
+2020-01-20 12:18:02 ERROR PublicLibrary:225 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@43a0a32d (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-20 12:18:02 ERROR PublicLibrary:199 - is not exist
+2020-01-20 12:18:02 ERROR PublicLibrary:174 -  is not exist
+2020-01-20 12:18:02 ERROR PublicLibrary:154 - Exception in clickElement()java.lang.NullPointerException
+2020-01-20 12:18:34 INFO  PublicLibrary:18 - Started Application
+2020-01-20 12:19:02 ERROR PublicLibrary:230 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 9229816b-ee21-4c11-9228-1615f88b0b7d
+*** Element info: {Using=xpath, value=//*[text()='Condition']/parent::android.view.ViewGroup[@index='2']}
+2020-01-20 12:19:02 ERROR PublicLibrary:204 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 9229816b-ee21-4c11-9228-1615f88b0b7d
+*** Element info: {Using=xpath, value=//*[text()='Condition']/parent::android.view.ViewGroup[@index='2']}
+2020-01-20 12:19:02 ERROR PublicLibrary:174 -  is not exist
+2020-01-20 12:19:02 ERROR PublicLibrary:154 - Exception in clickElement()java.lang.NullPointerException
+2020-01-20 12:19:02 ERROR PublicLibrary:230 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 9229816b-ee21-4c11-9228-1615f88b0b7d
+*** Element info: {Using=xpath, value=//*[contains(text(),'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-20 12:19:02 ERROR PublicLibrary:204 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 9229816b-ee21-4c11-9228-1615f88b0b7d
+*** Element info: {Using=xpath, value=//*[contains(text(),'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-20 12:19:02 ERROR PublicLibrary:174 -  is not exist
+2020-01-20 12:19:02 ERROR PublicLibrary:154 - Exception in clickElement()java.lang.NullPointerException
+2020-01-20 12:26:21 INFO  PublicLibrary:18 - Started Application
+2020-01-20 12:26:51 ERROR PublicLibrary:225 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@38f116f6 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-20 12:26:51 ERROR PublicLibrary:199 - is not exist
+2020-01-20 12:26:51 ERROR PublicLibrary:174 -  is not exist
+2020-01-20 12:26:51 ERROR PublicLibrary:154 - Exception in clickElement()java.lang.NullPointerException
+2020-01-20 12:27:30 INFO  PublicLibrary:18 - Started Application
+2020-01-20 12:36:10 INFO  PublicLibrary:18 - Started Application
+2020-01-20 12:36:45 ERROR PublicLibrary:230 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@241a53ef (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-20 12:39:57 INFO  PublicLibrary:18 - Started Application
+2020-01-21 12:57:44 INFO  PublicLibrary:18 - Started Application
+2020-01-22 13:32:08 INFO  PublicLibrary:18 - Started Application
+2020-01-22 13:32:28 ERROR PublicLibrary:230 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@46dffdc3 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 13:32:28 ERROR PublicLibrary:204 - is not exist
+2020-01-22 13:32:28 ERROR PublicLibrary:179 -  is not exist
+2020-01-22 13:32:28 ERROR PublicLibrary:159 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 13:32:48 ERROR PublicLibrary:230 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@52de51b6 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 13:32:50 ERROR PublicLibrary:204 - is not exist
+2020-01-22 13:32:50 ERROR PublicLibrary:179 -  is not exist
+2020-01-22 13:32:50 ERROR PublicLibrary:159 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 13:33:10 ERROR PublicLibrary:230 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@76f7d241 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 13:33:12 ERROR PublicLibrary:204 - is not exist
+2020-01-22 13:33:12 ERROR PublicLibrary:179 -  is not exist
+2020-01-22 13:33:12 ERROR PublicLibrary:159 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 13:33:32 ERROR PublicLibrary:230 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@182b435b (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 13:33:44 ERROR PublicLibrary:235 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 2683bb4c-397f-437e-b3a9-a08a6a079004
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_filter}
+2020-01-22 13:33:44 ERROR PublicLibrary:209 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 2683bb4c-397f-437e-b3a9-a08a6a079004
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_filter}
+2020-01-22 13:33:44 ERROR PublicLibrary:179 -  is not exist
+2020-01-22 13:33:44 ERROR PublicLibrary:159 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 13:33:44 ERROR PublicLibrary:235 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 2683bb4c-397f-437e-b3a9-a08a6a079004
+*** Element info: {Using=xpath, value=//*[@text='Condition']/parent::android.view.ViewGroup[@index='2']}
+2020-01-22 13:33:45 ERROR PublicLibrary:209 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 2683bb4c-397f-437e-b3a9-a08a6a079004
+*** Element info: {Using=xpath, value=//*[@text='Condition']/parent::android.view.ViewGroup[@index='2']}
+2020-01-22 13:33:45 ERROR PublicLibrary:179 -  is not exist
+2020-01-22 13:33:45 ERROR PublicLibrary:159 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 13:33:45 ERROR PublicLibrary:235 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 2683bb4c-397f-437e-b3a9-a08a6a079004
+*** Element info: {Using=xpath, value=//*[contains(@text,'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-22 13:33:45 ERROR PublicLibrary:209 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 2683bb4c-397f-437e-b3a9-a08a6a079004
+*** Element info: {Using=xpath, value=//*[contains(@text,'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-22 13:33:45 ERROR PublicLibrary:179 -  is not exist
+2020-01-22 13:33:45 ERROR PublicLibrary:159 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 13:33:54 INFO  PublicLibrary:18 - Started Application
+2020-01-22 13:36:12 INFO  PublicLibrary:18 - Started Application
+2020-01-22 13:47:23 INFO  PublicLibrary:18 - Started Application
+2020-01-22 13:48:03 ERROR PublicLibrary:230 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@5c48c0c0 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 13:48:03 ERROR PublicLibrary:204 - is not exist
+2020-01-22 13:48:03 ERROR PublicLibrary:179 -  is not exist
+2020-01-22 13:48:03 ERROR PublicLibrary:159 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 14:07:21 INFO  PublicLibrary:18 - Started Application
+2020-01-22 14:08:10 ERROR PublicLibrary:236 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@54ec8cc9 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 14:08:10 ERROR PublicLibrary:210 - is not exist
+2020-01-22 14:08:10 ERROR PublicLibrary:185 -  is not exist
+2020-01-22 14:08:10 ERROR PublicLibrary:165 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 14:15:52 INFO  PublicLibrary:18 - Started Application
+2020-01-22 14:16:26 ERROR PublicLibrary:263 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@1af687fe (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 14:16:26 ERROR PublicLibrary:237 - is not exist
+2020-01-22 14:16:26 ERROR PublicLibrary:212 -  is not exist
+2020-01-22 14:16:26 ERROR PublicLibrary:192 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 14:17:44 INFO  PublicLibrary:18 - Started Application
+2020-01-22 14:18:20 ERROR PublicLibrary:263 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@7d42c224 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 14:18:20 ERROR PublicLibrary:237 - is not exist
+2020-01-22 14:18:20 ERROR PublicLibrary:212 -  is not exist
+2020-01-22 14:18:20 ERROR PublicLibrary:192 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 15:25:59 INFO  PublicLibrary:18 - Started Application
+2020-01-22 15:29:26 INFO  PublicLibrary:18 - Started Application
+2020-01-22 15:58:42 INFO  PublicLibrary:18 - Started Application
+2020-01-22 15:59:15 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@2b58f754 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 15:59:35 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@213860b8 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 15:59:35 ERROR PublicLibrary:280 - is not exist
+2020-01-22 15:59:35 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 15:59:35 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 15:59:55 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@77ec6a3d (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 15:59:55 ERROR PublicLibrary:280 - is not exist
+2020-01-22 15:59:55 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 15:59:55 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 16:00:15 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@58d6e55a (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 16:00:15 ERROR PublicLibrary:280 - is not exist
+2020-01-22 16:00:15 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 16:00:15 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 16:00:36 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@4b88ca8e (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 16:00:36 ERROR PublicLibrary:280 - is not exist
+2020-01-22 16:00:36 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 16:00:36 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 16:01:15 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:05:18 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:07:04 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:07:22 ERROR PublicLibrary:274 - Found duplicate elements
+2020-01-22 16:20:59 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:21:33 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@6b44435b (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 16:21:33 ERROR PublicLibrary:280 - is not exist
+2020-01-22 16:21:33 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 16:21:33 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 16:24:28 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:24:48 ERROR PublicLibrary:274 - Found duplicate elements
+2020-01-22 16:26:47 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:27:14 ERROR PublicLibrary:274 - Found duplicate elements
+2020-01-22 16:38:33 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:39:21 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@403132fc (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 16:39:21 ERROR PublicLibrary:280 - is not exist
+2020-01-22 16:39:21 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 16:39:21 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 16:46:50 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:47:35 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@403132fc (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 16:47:35 ERROR PublicLibrary:280 - is not exist
+2020-01-22 16:47:35 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 16:47:35 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 16:51:44 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:52:17 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@3eeb318f (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 16:52:17 ERROR PublicLibrary:280 - is not exist
+2020-01-22 16:52:17 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 16:52:17 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 16:55:46 INFO  PublicLibrary:18 - Started Application
+2020-01-22 16:56:30 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@290b1b2e (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 16:56:30 ERROR PublicLibrary:280 - is not exist
+2020-01-22 16:56:30 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 16:56:30 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 17:02:43 INFO  PublicLibrary:18 - Started Application
+2020-01-22 17:04:22 INFO  PublicLibrary:18 - Started Application
+2020-01-22 17:19:07 INFO  PublicLibrary:18 - Started Application
+2020-01-22 17:19:51 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@42f48531 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 17:19:51 ERROR PublicLibrary:280 - is not exist
+2020-01-22 17:19:51 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 17:19:51 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 17:25:46 INFO  PublicLibrary:18 - Started Application
+2020-01-22 17:26:38 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@5fd9b663 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 17:26:39 ERROR PublicLibrary:280 - is not exist
+2020-01-22 17:26:39 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 17:26:39 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 17:33:16 INFO  PublicLibrary:18 - Started Application
+2020-01-22 17:33:47 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@5aceec94 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 17:34:08 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@12aa4996 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 17:34:08 ERROR PublicLibrary:280 - is not exist
+2020-01-22 17:34:08 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 17:34:08 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 17:34:28 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@4a163575 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 17:34:28 ERROR PublicLibrary:280 - is not exist
+2020-01-22 17:34:28 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 17:34:28 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 17:34:48 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@3ff54f3d (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 17:34:48 ERROR PublicLibrary:280 - is not exist
+2020-01-22 17:34:48 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 17:34:48 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 17:35:08 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@1472208d (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 17:35:08 ERROR PublicLibrary:280 - is not exist
+2020-01-22 17:35:08 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 17:35:08 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 17:35:28 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@5be51aa (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 17:36:06 INFO  PublicLibrary:18 - Started Application
+2020-01-22 17:59:25 INFO  PublicLibrary:18 - Started Application
+2020-01-22 18:29:55 INFO  PublicLibrary:18 - Started Application
+2020-01-22 18:40:38 INFO  PublicLibrary:18 - Started Application
+2020-01-22 18:43:12 INFO  PublicLibrary:18 - Started Application
+2020-01-22 18:44:33 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.NoSuchSessionException: A session is either terminated or not started
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 64905c58-c3fb-4283-8e42-e97780db0182
+*** Element info: {Using=xpath, value=//*[@text='Results' and @index='0']/parent::android.widget.LinearLayout[@index='2']/following-sibling::androidx.recyclerview.widget.RecyclerView[@id='com.ebay.mobile:id/recyclerview_items' and @index='3']}
+2020-01-22 18:44:33 ERROR PublicLibrary:285 - Exception in verifyElementExist()org.openqa.selenium.NoSuchSessionException: A session is either terminated or not started
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 64905c58-c3fb-4283-8e42-e97780db0182
+*** Element info: {Using=xpath, value=//*[@text='Results' and @index='0']/parent::android.widget.LinearLayout[@index='2']/following-sibling::androidx.recyclerview.widget.RecyclerView[@id='com.ebay.mobile:id/recyclerview_items' and @index='3']}
+2020-01-22 18:44:33 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 18:44:33 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 18:46:01 INFO  PublicLibrary:18 - Started Application
+2020-01-22 18:47:00 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@393881f0 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 18:47:00 ERROR PublicLibrary:280 - is not exist
+2020-01-22 18:47:00 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 18:47:00 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-22 18:48:49 INFO  PublicLibrary:18 - Started Application
+2020-01-22 18:50:00 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@70e3f36f (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-22 18:50:00 ERROR PublicLibrary:280 - is not exist
+2020-01-22 18:50:00 ERROR PublicLibrary:255 -  is not exist
+2020-01-22 18:50:00 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:29:43 INFO  PublicLibrary:18 - Started Application
+2020-01-23 11:29:56 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//android.widget.TextView[@content-desc="Categories button"]}
+2020-01-23 11:29:56 ERROR PublicLibrary:285 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//android.widget.TextView[@content-desc="Categories button"]}
+2020-01-23 11:29:56 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:29:56 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:29:56 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Books']}
+2020-01-23 11:29:56 ERROR PublicLibrary:285 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Books']}
+2020-01-23 11:29:56 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:29:56 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:29:56 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Audiobooks']}
+2020-01-23 11:29:56 ERROR PublicLibrary:285 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Audiobooks']}
+2020-01-23 11:29:56 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:29:56 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:29:56 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=id, value=com.ebay.mobile:id/container_items}
+2020-01-23 11:29:56 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_filter}
+2020-01-23 11:29:56 ERROR PublicLibrary:285 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_filter}
+2020-01-23 11:29:56 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:29:56 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:29:56 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//*[@text='Condition']/parent::android.view.ViewGroup[@index='2']}
+2020-01-23 11:29:56 ERROR PublicLibrary:285 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//*[@text='Condition']/parent::android.view.ViewGroup[@index='2']}
+2020-01-23 11:29:56 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:29:56 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:29:56 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//*[contains(@text,'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-23 11:29:57 ERROR PublicLibrary:285 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=xpath, value=//*[contains(@text,'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-23 11:29:57 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:29:57 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:29:57 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_done}
+2020-01-23 11:29:57 ERROR PublicLibrary:285 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_done}
+2020-01-23 11:29:57 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:29:57 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:29:57 ERROR PublicLibrary:311 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 89f195b6-060b-44d1-8a35-c8e71bef818f
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_filter}
+2020-01-23 11:44:37 INFO  PublicLibrary:18 - Started Application
+2020-01-23 11:45:11 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@235f4c10 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 11:45:40 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@111610e6 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 11:45:41 ERROR PublicLibrary:280 - is not exist
+2020-01-23 11:45:41 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:45:41 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:46:01 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@31464a43 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 11:46:01 ERROR PublicLibrary:280 - is not exist
+2020-01-23 11:46:01 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:46:01 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:46:21 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@7bab5898 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 11:46:21 ERROR PublicLibrary:280 - is not exist
+2020-01-23 11:46:21 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:46:21 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:46:41 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@e700eba (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 11:47:05 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@395f52ed (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 11:47:05 ERROR PublicLibrary:280 - is not exist
+2020-01-23 11:47:05 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:47:05 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:48:14 INFO  PublicLibrary:18 - Started Application
+2020-01-23 11:48:52 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@6941827a (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 11:48:52 ERROR PublicLibrary:280 - is not exist
+2020-01-23 11:48:52 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:48:52 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:50:48 INFO  PublicLibrary:18 - Started Application
+2020-01-23 11:51:15 ERROR PublicLibrary:274 - Found duplicate elements
+2020-01-23 11:52:45 INFO  PublicLibrary:18 - Started Application
+2020-01-23 11:53:26 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@463b4ac8 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 11:53:26 ERROR PublicLibrary:280 - is not exist
+2020-01-23 11:53:26 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 11:53:26 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 11:55:37 INFO  PublicLibrary:18 - Started Application
+2020-01-23 12:11:54 INFO  PublicLibrary:18 - Started Application
+2020-01-23 12:12:39 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@6c2d4cc6 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 12:12:39 ERROR PublicLibrary:280 - is not exist
+2020-01-23 12:12:39 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 12:12:39 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 12:12:59 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@260f2144 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 12:12:59 ERROR PublicLibrary:280 - is not exist
+2020-01-23 12:12:59 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 12:12:59 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 12:13:20 ERROR PublicLibrary:306 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@1866da85 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 12:13:20 ERROR PublicLibrary:280 - is not exist
+2020-01-23 12:13:20 ERROR PublicLibrary:255 -  is not exist
+2020-01-23 12:13:20 ERROR PublicLibrary:235 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 12:22:54 INFO  PublicLibrary:18 - Started Application
+2020-01-23 12:32:19 INFO  PublicLibrary:18 - Started Application
+2020-01-23 14:01:02 INFO  PublicLibrary:18 - Started Application
+2020-01-23 14:10:05 INFO  PublicLibrary:18 - Started Application
+2020-01-23 14:15:42 INFO  PublicLibrary:18 - Started Application
+2020-01-23 14:16:03 ERROR PublicLibrary:284 - is not exist
+2020-01-23 14:16:03 ERROR PublicLibrary:259 -  is not exist
+2020-01-23 14:16:03 ERROR PublicLibrary:239 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 14:17:31 INFO  PublicLibrary:18 - Started Application
+2020-01-23 14:18:25 ERROR PublicLibrary:310 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@10ad20cb (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 14:18:25 ERROR PublicLibrary:284 - is not exist
+2020-01-23 14:18:25 ERROR PublicLibrary:259 -  is not exist
+2020-01-23 14:18:25 ERROR PublicLibrary:239 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 14:20:58 INFO  PublicLibrary:18 - Started Application
+2020-01-23 14:22:01 ERROR PublicLibrary:310 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@4ebea12c (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-23 14:22:01 ERROR PublicLibrary:284 - is not exist
+2020-01-23 14:22:01 ERROR PublicLibrary:259 -  is not exist
+2020-01-23 14:22:01 ERROR PublicLibrary:239 - Exception in clickElement()java.lang.NullPointerException
+2020-01-23 14:24:06 INFO  PublicLibrary:18 - Started Application
+2020-01-24 12:12:01 INFO  PublicLibrary:18 - Started Application
+2020-01-24 12:26:48 INFO  PublicLibrary:18 - Started Application
+2020-01-24 12:27:22 ERROR PublicLibrary:332 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@59f63e24 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-24 12:27:42 ERROR PublicLibrary:332 - Exception in fluentWait()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.ggktech.PublicLibrary.PublicLibrary$1@38f116f6 (tried for 20 second(s) with 100 milliseconds interval)
+2020-01-24 12:27:43 ERROR PublicLibrary:306 - is not exist
+2020-01-24 12:27:43 ERROR PublicLibrary:281 -  is not exist
+2020-01-24 12:27:43 ERROR PublicLibrary:261 - Exception in clickElement()java.lang.NullPointerException
+2020-01-24 12:27:49 ERROR PublicLibrary:337 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 17234f99-9b84-4ad2-839a-9b21ed539394
+*** Element info: {Using=xpath, value=//*[contains(@text,'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-24 12:27:49 ERROR PublicLibrary:311 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 17234f99-9b84-4ad2-839a-9b21ed539394
+*** Element info: {Using=xpath, value=//*[contains(@text,'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-24 12:27:49 ERROR PublicLibrary:281 -  is not exist
+2020-01-24 12:27:49 ERROR PublicLibrary:261 - Exception in clickElement()java.lang.NullPointerException
+2020-01-24 12:27:49 ERROR PublicLibrary:337 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 17234f99-9b84-4ad2-839a-9b21ed539394
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_done}
+2020-01-24 12:27:49 ERROR PublicLibrary:311 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 17234f99-9b84-4ad2-839a-9b21ed539394
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_done}
+2020-01-24 12:27:49 ERROR PublicLibrary:281 -  is not exist
+2020-01-24 12:27:49 ERROR PublicLibrary:261 - Exception in clickElement()java.lang.NullPointerException
+2020-01-24 12:27:49 ERROR PublicLibrary:337 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: 17234f99-9b84-4ad2-839a-9b21ed539394
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_filter}
+2020-01-24 12:28:04 INFO  PublicLibrary:18 - Started Application
+2020-01-24 12:29:27 INFO  PublicLibrary:18 - Started Application
+2020-01-24 12:29:37 ERROR PublicLibrary:337 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: fc51d839-eb33-4869-9ac2-579b469b1b5e
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_filter}
+2020-01-24 12:29:37 ERROR PublicLibrary:311 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: fc51d839-eb33-4869-9ac2-579b469b1b5e
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_filter}
+2020-01-24 12:29:37 ERROR PublicLibrary:281 -  is not exist
+2020-01-24 12:29:37 ERROR PublicLibrary:261 - Exception in clickElement()java.lang.NullPointerException
+2020-01-24 12:29:37 ERROR PublicLibrary:337 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: fc51d839-eb33-4869-9ac2-579b469b1b5e
+*** Element info: {Using=xpath, value=//*[@text='Condition']/parent::android.view.ViewGroup[@index='2']}
+2020-01-24 12:29:37 ERROR PublicLibrary:311 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: fc51d839-eb33-4869-9ac2-579b469b1b5e
+*** Element info: {Using=xpath, value=//*[@text='Condition']/parent::android.view.ViewGroup[@index='2']}
+2020-01-24 12:29:37 ERROR PublicLibrary:281 -  is not exist
+2020-01-24 12:29:37 ERROR PublicLibrary:261 - Exception in clickElement()java.lang.NullPointerException
+2020-01-24 12:29:37 ERROR PublicLibrary:337 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: fc51d839-eb33-4869-9ac2-579b469b1b5e
+*** Element info: {Using=xpath, value=//*[contains(@text,'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-24 12:29:37 ERROR PublicLibrary:311 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: fc51d839-eb33-4869-9ac2-579b469b1b5e
+*** Element info: {Using=xpath, value=//*[contains(@text,'Brand New')]/parent::android.view.ViewGroup[@index='1']}
+2020-01-24 12:29:37 ERROR PublicLibrary:281 -  is not exist
+2020-01-24 12:29:37 ERROR PublicLibrary:261 - Exception in clickElement()java.lang.NullPointerException
+2020-01-24 12:29:37 ERROR PublicLibrary:337 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: fc51d839-eb33-4869-9ac2-579b469b1b5e
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_done}
+2020-01-24 12:29:37 ERROR PublicLibrary:311 - Exception in verifyElementExist()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: fc51d839-eb33-4869-9ac2-579b469b1b5e
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_done}
+2020-01-24 12:29:37 ERROR PublicLibrary:281 -  is not exist
+2020-01-24 12:29:37 ERROR PublicLibrary:261 - Exception in clickElement()java.lang.NullPointerException
+2020-01-24 12:29:37 ERROR PublicLibrary:337 - Exception in fluentWait()org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'GGKU2SYS81', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., databaseEnabled: false, desired: {appActivity: com.ebay.mobile.activities...., appPackage: com.ebay.mobile, appWaitActivity: com.ebay.mobile.activities...., deviceName: Android Emulator, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 240, deviceScreenSize: 480x800, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 1.5, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 36, takesScreenshot: true, viewportRect: {height: 764, left: 0, top: 36, width: 480}, warnings: {}, webStorageEnabled: false}
+Session ID: fc51d839-eb33-4869-9ac2-579b469b1b5e
+*** Element info: {Using=id, value=com.ebay.mobile:id/button_filter}
+2020-01-24 12:30:34 INFO  PublicLibrary:18 - Started Application
