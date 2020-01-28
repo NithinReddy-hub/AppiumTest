@@ -23,7 +23,7 @@ public class LaunchActivity extends PublicLibrary{
 	@AfterTest
 	public void shutDown()
 	{
-		//quitDriver();
+		quitDriver();
 	}
 }
 
