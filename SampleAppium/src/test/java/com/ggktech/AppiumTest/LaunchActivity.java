@@ -15,7 +15,7 @@ public class LaunchActivity extends PublicLibrary{
 	{
 	
 		 launchApp();
-		 logger.info("Started Applicationssssss");
+		 logger.info("Started Applicationssss");
 	}
 
 	
